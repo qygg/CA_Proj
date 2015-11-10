@@ -15,6 +15,7 @@
 		294E42A11BF03294003C2423 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 294E429F1BF03294003C2423 /* LaunchScreen.storyboard */; };
 		295F11691BF1994600AE9C29 /* ZCTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 295F11681BF1994600AE9C29 /* ZCTest.m */; };
 		295F116C1BF19ACE00AE9C29 /* Test2.m in Sources */ = {isa = PBXBuildFile; fileRef = 295F116B1BF19ACE00AE9C29 /* Test2.m */; };
+		295F116F1BF1C96D00AE9C29 /* Xiawu.m in Sources */ = {isa = PBXBuildFile; fileRef = 295F116E1BF1C96D00AE9C29 /* Xiawu.m */; };
 		C21269BE1BF1C8220091CC45 /* Sss.m in Sources */ = {isa = PBXBuildFile; fileRef = C21269BD1BF1C8220091CC45 /* Sss.m */; };
 		C2BA4C7A1BF1908B000D9163 /* Test.m in Sources */ = {isa = PBXBuildFile; fileRef = C2BA4C791BF1908B000D9163 /* Test.m */; };
 /* End PBXBuildFile section */
@@ -34,6 +35,8 @@
 		295F11681BF1994600AE9C29 /* ZCTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZCTest.m; sourceTree = "<group>"; };
 		295F116A1BF19ACE00AE9C29 /* Test2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Test2.h; sourceTree = "<group>"; };
 		295F116B1BF19ACE00AE9C29 /* Test2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Test2.m; sourceTree = "<group>"; };
+		295F116D1BF1C96D00AE9C29 /* Xiawu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Xiawu.h; sourceTree = "<group>"; };
+		295F116E1BF1C96D00AE9C29 /* Xiawu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Xiawu.m; sourceTree = "<group>"; };
 		C21269BC1BF1C8220091CC45 /* Sss.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Sss.h; sourceTree = "<group>"; };
 		C21269BD1BF1C8220091CC45 /* Sss.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Sss.m; sourceTree = "<group>"; };
 		C2BA4C781BF1908B000D9163 /* Test.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Test.h; sourceTree = "<group>"; };
@@ -74,6 +77,8 @@
 				294E42951BF03293003C2423 /* AppDelegate.m */,
 				294E42971BF03293003C2423 /* ViewController.h */,
 				294E42981BF03294003C2423 /* ViewController.m */,
+				295F116D1BF1C96D00AE9C29 /* Xiawu.h */,
+				295F116E1BF1C96D00AE9C29 /* Xiawu.m */,
 				295F116A1BF19ACE00AE9C29 /* Test2.h */,
 				295F116B1BF19ACE00AE9C29 /* Test2.m */,
 				C2BA4C781BF1908B000D9163 /* Test.h */,
@@ -169,6 +174,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				295F116F1BF1C96D00AE9C29 /* Xiawu.m in Sources */,
 				295F116C1BF19ACE00AE9C29 /* Test2.m in Sources */,
 				294E42991BF03294003C2423 /* ViewController.m in Sources */,
 				C2BA4C7A1BF1908B000D9163 /* Test.m in Sources */,
