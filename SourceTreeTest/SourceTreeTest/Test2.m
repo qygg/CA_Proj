@@ -1,15 +1,13 @@
 //
-//  ZCTest.h
+//  Test2.m
 //  SourceTreeTest
 //
 //  Created by 胡智超 on 15/11/10.
 //  Copyright © 2015年 胡智超. All rights reserved.
 //
 
-#import <Foundation/Foundation.h>
+#import "Test2.h"
 
-@interface ZCTest : NSObject
-
-@property (nonatomic, strong) NSString *test;
+@implementation Test2
 
 @end

@@ -14,6 +14,7 @@
 		294E429E1BF03294003C2423 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 294E429D1BF03294003C2423 /* Assets.xcassets */; };
 		294E42A11BF03294003C2423 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 294E429F1BF03294003C2423 /* LaunchScreen.storyboard */; };
 		295F11691BF1994600AE9C29 /* ZCTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 295F11681BF1994600AE9C29 /* ZCTest.m */; };
+		295F116C1BF19ACE00AE9C29 /* Test2.m in Sources */ = {isa = PBXBuildFile; fileRef = 295F116B1BF19ACE00AE9C29 /* Test2.m */; };
 		C2BA4C7A1BF1908B000D9163 /* Test.m in Sources */ = {isa = PBXBuildFile; fileRef = C2BA4C791BF1908B000D9163 /* Test.m */; };
 /* End PBXBuildFile section */
 
@@ -30,6 +31,8 @@
 		294E42A21BF03294003C2423 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		295F11671BF1994600AE9C29 /* ZCTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZCTest.h; sourceTree = "<group>"; };
 		295F11681BF1994600AE9C29 /* ZCTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZCTest.m; sourceTree = "<group>"; };
+		295F116A1BF19ACE00AE9C29 /* Test2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Test2.h; sourceTree = "<group>"; };
+		295F116B1BF19ACE00AE9C29 /* Test2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Test2.m; sourceTree = "<group>"; };
 		C2BA4C781BF1908B000D9163 /* Test.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Test.h; sourceTree = "<group>"; };
 		C2BA4C791BF1908B000D9163 /* Test.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Test.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -68,6 +71,8 @@
 				294E42951BF03293003C2423 /* AppDelegate.m */,
 				294E42971BF03293003C2423 /* ViewController.h */,
 				294E42981BF03294003C2423 /* ViewController.m */,
+				295F116A1BF19ACE00AE9C29 /* Test2.h */,
+				295F116B1BF19ACE00AE9C29 /* Test2.m */,
 				C2BA4C781BF1908B000D9163 /* Test.h */,
 				C2BA4C791BF1908B000D9163 /* Test.m */,
 				295F11671BF1994600AE9C29 /* ZCTest.h */,
@@ -159,6 +164,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				295F116C1BF19ACE00AE9C29 /* Test2.m in Sources */,
 				294E42991BF03294003C2423 /* ViewController.m in Sources */,
 				C2BA4C7A1BF1908B000D9163 /* Test.m in Sources */,
 				294E42961BF03293003C2423 /* AppDelegate.m in Sources */,

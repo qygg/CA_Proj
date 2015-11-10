@@ -1,5 +1,5 @@
 //
-//  ZCTest.h
+//  Test2.h
 //  SourceTreeTest
 //
 //  Created by 胡智超 on 15/11/10.
@@ -8,8 +8,6 @@
 
 #import <Foundation/Foundation.h>
 
-@interface ZCTest : NSObject
-
-@property (nonatomic, strong) NSString *test;
+@interface Test2 : NSObject
 
 @end
