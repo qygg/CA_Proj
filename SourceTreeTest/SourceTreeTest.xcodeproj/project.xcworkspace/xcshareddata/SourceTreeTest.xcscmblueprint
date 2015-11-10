@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "80A0A39A86A3E8F61DDA3D3D17E00D7014B8F7A4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "80A0A39A86A3E8F61DDA3D3D17E00D7014B8F7A4" : 0,
+    "941C50E552A3F0A2CE93B16D2437949FECADD2C1" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "34A22031-4C54-41BF-9AFB-9AC5D3AAC5F7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "80A0A39A86A3E8F61DDA3D3D17E00D7014B8F7A4" : "CA_Proj\/",
+    "941C50E552A3F0A2CE93B16D2437949FECADD2C1" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SourceTreeTest",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SourceTreeTest\/SourceTreeTest.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/qygg\/CA_Proj",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "80A0A39A86A3E8F61DDA3D3D17E00D7014B8F7A4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Shishasha\/Code_Artist_Group.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "941C50E552A3F0A2CE93B16D2437949FECADD2C1"
+    }
+  ]
+}
