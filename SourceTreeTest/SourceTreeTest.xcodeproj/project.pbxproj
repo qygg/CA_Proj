@@ -13,6 +13,7 @@
 		294E429C1BF03294003C2423 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 294E429A1BF03294003C2423 /* Main.storyboard */; };
 		294E429E1BF03294003C2423 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 294E429D1BF03294003C2423 /* Assets.xcassets */; };
 		294E42A11BF03294003C2423 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 294E429F1BF03294003C2423 /* LaunchScreen.storyboard */; };
+		295F11691BF1994600AE9C29 /* ZCTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 295F11681BF1994600AE9C29 /* ZCTest.m */; };
 		C2BA4C7A1BF1908B000D9163 /* Test.m in Sources */ = {isa = PBXBuildFile; fileRef = C2BA4C791BF1908B000D9163 /* Test.m */; };
 /* End PBXBuildFile section */
 
@@ -27,6 +28,8 @@
 		294E429D1BF03294003C2423 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		294E42A01BF03294003C2423 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		294E42A21BF03294003C2423 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		295F11671BF1994600AE9C29 /* ZCTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZCTest.h; sourceTree = "<group>"; };
+		295F11681BF1994600AE9C29 /* ZCTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZCTest.m; sourceTree = "<group>"; };
 		C2BA4C781BF1908B000D9163 /* Test.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Test.h; sourceTree = "<group>"; };
 		C2BA4C791BF1908B000D9163 /* Test.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Test.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -67,6 +70,8 @@
 				294E42981BF03294003C2423 /* ViewController.m */,
 				C2BA4C781BF1908B000D9163 /* Test.h */,
 				C2BA4C791BF1908B000D9163 /* Test.m */,
+				295F11671BF1994600AE9C29 /* ZCTest.h */,
+				295F11681BF1994600AE9C29 /* ZCTest.m */,
 				294E429A1BF03294003C2423 /* Main.storyboard */,
 				294E429D1BF03294003C2423 /* Assets.xcassets */,
 				294E429F1BF03294003C2423 /* LaunchScreen.storyboard */,
@@ -158,6 +163,7 @@
 				C2BA4C7A1BF1908B000D9163 /* Test.m in Sources */,
 				294E42961BF03293003C2423 /* AppDelegate.m in Sources */,
 				294E42931BF03293003C2423 /* main.m in Sources */,
+				295F11691BF1994600AE9C29 /* ZCTest.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
