@@ -4,10 +4,10 @@
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9049"/>
     </dependencies>
     <scenes>
-        <!--Navigation Controller-->
+        <!--Root Navigation Controller-->
         <scene sceneID="4CX-nJ-dLx">
             <objects>
-                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="fNS-OE-XRt" sceneMemberID="viewController">
+                <navigationController automaticallyAdjustsScrollViewInsets="NO" id="fNS-OE-XRt" customClass="RootNavigationController" sceneMemberID="viewController">
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="Rbe-Cc-k7A">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
@@ -15,6 +15,11 @@
                         <animations/>
                     </navigationBar>
                     <nil name="viewControllers"/>
+                    <toolbar key="toolbar" opaque="NO" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="5Yx-a4-iHo">
+                        <rect key="frame" x="0.0" y="556" width="600" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                        <animations/>
+                    </toolbar>
                     <connections>
                         <segue destination="zQk-9i-fzN" kind="relationship" relationship="rootViewController" id="04T-t9-Jwg"/>
                     </connections>
