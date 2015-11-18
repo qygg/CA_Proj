@@ -10,4 +10,6 @@
 
 @interface Xiawu : NSObject
 
+@property (nonatomic, strong) NSString *TestProperty;
+
 @end

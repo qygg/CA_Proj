@@ -8,6 +8,9 @@
 
 #import "ViewController.h"
 #import "ZCTest.h"
+#import "Xiawu.h"
+#import <SDWebImage/UIImageView+WebCache.h>
+#import <MJExtension/MJExtension.h>
 
 @interface ViewController ()
 
@@ -16,13 +19,12 @@
 @implementation ViewController
 
 - (void)viewWillAppear:(BOOL)animated {
-    
     self.navigationController.navigationBarHidden = YES;
 }
 
 - (void)viewDidLoad {
-    [super viewDidLoad];
     
+    [super viewDidLoad];
     
     NSLog(@"哈哈哈哈");
     
