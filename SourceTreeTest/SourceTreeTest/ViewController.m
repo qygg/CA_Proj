@@ -31,6 +31,10 @@
     
 }
 
+- (void)viewWillDisappear:(BOOL)animated {
+    NSLog(@"\n%d:%s", __LINE__, __FUNCTION__);
+}
+
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
